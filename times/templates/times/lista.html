@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>footbal times</title>
+</head>
+<body>
+
+<h1>lista</h1>
+
+<ul>
+    {% for time in times %}
+        <li>
+            <strong>{{ time.nome }}</strong> - 
+            {{ time.cidade }} - 
+            {{ time.titulos }} títulos
+        </li>
+    {% endfor %}
+</ul>
+
+</body>
+</html>
