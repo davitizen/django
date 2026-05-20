@@ -1,10 +1,10 @@
-# ⚽ Projeto Django - Times de Futebol
+# Projeto Django - Times de Futebol
 
 Este projeto é uma aplicação web desenvolvida com Django que permite cadastrar e visualizar times de futebol.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Cadastro de times via painel administrativo
 - Visualização dos times em página web
@@ -13,7 +13,7 @@ Este projeto é uma aplicação web desenvolvida com Django que permite cadastra
 
 ---
 
-## 🧱 Estrutura do Projeto
+## Estrutura do Projeto
 
 O projeto segue o padrão MVT do Django:
 
@@ -24,7 +24,7 @@ O projeto segue o padrão MVT do Django:
 
 ---
 
-## 🗄️ Model
+## Model
 
 O model principal é:
 
